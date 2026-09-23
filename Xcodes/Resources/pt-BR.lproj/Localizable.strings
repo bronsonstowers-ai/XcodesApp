@@ -16,6 +16,7 @@
 "OpenDescription" = "Abrir essa versão";
 "CopyPath" = "Copiar caminho";
 "CreateSymLink" = "Criar Symlink como Xcode.app";
+// Temporary English fallback until a pt-BR translation is added.
 "CreateSymLinkBeta" = "Create Symlink as Xcode-Beta.app";
 "Uninstall" = "Desinstalar";
 "Selected" = "Selecionado(s)";
@@ -33,6 +34,7 @@
 "ReleaseDate" = "Data de lançamento";
 "ReleaseNotes" = "Notas de lançamento";
 "ReleaseNotes.help" = "Visualizar notas de lançamento";
+// Temporary English fallback until a pt-BR translation is added.
 "CopyReleaseNoteURL" = "Copy URL";
 "Compatibility" = "Compatibilidade";
 "MacOSRequirement" = "Necessário macOS %@ ou mais recente";
@@ -75,10 +77,12 @@
 "Never" = "Nunca";
 
 // Download Preference Pane
+// Temporary English fallback until a pt-BR translation is added.
 "Downloads" = "Downloads";
 
 // Advanced Preference Pane
 "Advanced" = "Avançado";
+// Temporary English fallbacks until pt-BR translations are added.
 "InstallDirectory" = "Install Directory";
 "InstallPathDescription" = "Xcodes searches and installs to a single directory. By default (and recommended) is to keep this /Applications. Any changes to where Xcode is stored may result in other apps/services to stop working. ";
 "LocalCachePath" = "Caminho de caches local";
@@ -97,6 +101,7 @@
 "HelperNotInstalled" = "Ajudante não está instalado";
 "InstallHelper" = "Instalar ajudante";
 "OnSelectDoNothing" = "Manter nome como Xcode-X.X.X.app";
+// Temporary English fallback until a pt-BR translation is added.
 "OnSelectDoNothingDescription" = "On select, will keep the name as the version eg. Xcode-13.4.1.app";
 "OnSelectRenameXcode" = "Sempre renomear para Xcode.app";
 "OnSelectRenameXcodeDescription" = "Ao selecionar, tentar renomear o Xcode ativo para Xcode.app, renomeando o Xcode.app anterior para um nome com a versão.";
@@ -161,6 +166,7 @@
 "Alert.Uninstall.Title" = "Desinstalar Xcode %@?";
 "Alert.Uninstall.Message" = "Será movido para a lixeira, mas não será esvaziada.";
 "Alert.Uninstall.Error.Title" = "Não foi possível desinstalar o Xcode";
+// Temporary English fallback until a pt-BR translation is added.
 "Alert.Uninstall.Error.Message.FileNotFound" = "Could not find file \"%@\".";
 
 // Cancel Install

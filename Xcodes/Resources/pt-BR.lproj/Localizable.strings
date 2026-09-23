@@ -77,7 +77,7 @@
 "Never" = "Nunca";
 
 // Download Preference Pane
-// Temporary English fallback until a pt-BR translation is added.
+// Intentionally matches the source locale in pt-BR.
 "Downloads" = "Downloads";
 
 // Advanced Preference Pane

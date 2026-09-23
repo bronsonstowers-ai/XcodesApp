@@ -16,6 +16,7 @@
 "OpenDescription" = "Abrir essa versão";
 "CopyPath" = "Copiar caminho";
 "CreateSymLink" = "Criar Symlink como Xcode.app";
+"CreateSymLinkBeta" = "Create Symlink as Xcode-Beta.app";
 "Uninstall" = "Desinstalar";
 "Selected" = "Selecionado(s)";
 "Select" = "Selecionar";
@@ -32,6 +33,7 @@
 "ReleaseDate" = "Data de lançamento";
 "ReleaseNotes" = "Notas de lançamento";
 "ReleaseNotes.help" = "Visualizar notas de lançamento";
+"CopyReleaseNoteURL" = "Copy URL";
 "Compatibility" = "Compatibilidade";
 "MacOSRequirement" = "Necessário macOS %@ ou mais recente";
 "SDKs" = "SDKs";
@@ -72,8 +74,13 @@
 "LastChecked" = "Ultima vez verificado: %@";
 "Never" = "Nunca";
 
+// Download Preference Pane
+"Downloads" = "Downloads";
+
 // Advanced Preference Pane
 "Advanced" = "Avançado";
+"InstallDirectory" = "Install Directory";
+"InstallPathDescription" = "Xcodes searches and installs to a single directory. By default (and recommended) is to keep this /Applications. Any changes to where Xcode is stored may result in other apps/services to stop working. ";
 "LocalCachePath" = "Caminho de caches local";
 "LocalCachePathDescription" = "Xcodes faz caches de versões disponíveis do Xcode e baixa temporariamente estas novas versões para um diretório.";
 "Change" = "Alterar";
@@ -90,6 +97,7 @@
 "HelperNotInstalled" = "Ajudante não está instalado";
 "InstallHelper" = "Instalar ajudante";
 "OnSelectDoNothing" = "Manter nome como Xcode-X.X.X.app";
+"OnSelectDoNothingDescription" = "On select, will keep the name as the version eg. Xcode-13.4.1.app";
 "OnSelectRenameXcode" = "Sempre renomear para Xcode.app";
 "OnSelectRenameXcodeDescription" = "Ao selecionar, tentar renomear o Xcode ativo para Xcode.app, renomeando o Xcode.app anterior para um nome com a versão.";
 "ShowOpenInRosetta" = "Mostrar opçao abrir com Rosetta";
@@ -153,6 +161,7 @@
 "Alert.Uninstall.Title" = "Desinstalar Xcode %@?";
 "Alert.Uninstall.Message" = "Será movido para a lixeira, mas não será esvaziada.";
 "Alert.Uninstall.Error.Title" = "Não foi possível desinstalar o Xcode";
+"Alert.Uninstall.Error.Message.FileNotFound" = "Could not find file \"%@\".";
 
 // Cancel Install
 "Alert.CancelInstall.Title" = "Tem certeza que deseja interromper a instalação do Xcode %@?";

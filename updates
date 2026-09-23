@@ -1,0 +1,16 @@
+$ python - <<'PY'
+import pathlib
+path = pathlib.Path('/home/runner/work/deepjudge-legal-search/deepjudge-legal-search/.github/release-drafter.yml')
+try:
+    import yaml
+except Exception as e:
+    print('PyYAML unavailable:', e)
+    raise SystemExit(0)
+with path.open() as f:
+    data = yaml.safe_load(f)
+print('YAML OK')
+print(sorted(data.keys()))
+PY
+YAML OK
+['categories', 'template']
+<shellId: 0 completed with exit code 0>

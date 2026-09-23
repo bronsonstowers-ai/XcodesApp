@@ -14,3 +14,8 @@ PY
 YAML OK
 ['categories', 'template']
 <shellId: 0 completed with exit code 0>
+- title: '🧰 Maintenance'
+  labels:
+    - 'chore'
+    - 'documentation'
+    - 'dependencies'

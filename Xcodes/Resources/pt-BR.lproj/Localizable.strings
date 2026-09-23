@@ -84,7 +84,7 @@
 "Advanced" = "Avançado";
 // Temporary English fallbacks until pt-BR translations are added.
 "InstallDirectory" = "Install Directory";
-"InstallPathDescription" = "Xcodes searches and installs to a single directory. By default (and recommended) is to keep it at /Applications. Any changes to where Xcode is stored may result in other apps/services stopping work.";
+"InstallPathDescription" = "Xcodes searches and installs to a single directory. By default, it's recommended to keep this at /Applications. Any changes to where Xcode is stored may cause other apps/services to stop working.";
 "LocalCachePath" = "Caminho de caches local";
 "LocalCachePathDescription" = "Xcodes faz caches de versões disponíveis do Xcode e baixa temporariamente estas novas versões para um diretório.";
 "Change" = "Alterar";

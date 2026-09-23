@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Bark Lead Extractor (Visible Only)",
+  "version": "0.1.0",
+  "description": "Extracts name/email/phone only from visible page DOM for authorized users.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://www.bark.com/*"],
+  "action": { "default_popup": "popup.html" },
+  "background": { "service_worker": "background.js" }
+}

@@ -102,7 +102,7 @@
 "InstallHelper" = "Instalar ajudante";
 "OnSelectDoNothing" = "Manter nome como Xcode-X.X.X.app";
 // Temporary English fallback until a pt-BR translation is added.
-"OnSelectDoNothingDescription" = "On select, will keep the name as the version eg. Xcode-13.4.1.app";
+"OnSelectDoNothingDescription" = "When selected, keeps the versioned name, for example Xcode-13.4.1.app.";
 "OnSelectRenameXcode" = "Sempre renomear para Xcode.app";
 "OnSelectRenameXcodeDescription" = "Ao selecionar, tentar renomear o Xcode ativo para Xcode.app, renomeando o Xcode.app anterior para um nome com a versão.";
 "ShowOpenInRosetta" = "Mostrar opção abrir com Rosetta";
